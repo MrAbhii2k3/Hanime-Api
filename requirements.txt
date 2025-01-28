@@ -6,4 +6,5 @@ aiofiles
 beautifulsoup4
 fastapi
 uvicorn
-dateutil
+python-dateutil
+
